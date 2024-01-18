@@ -2,12 +2,15 @@
   font-family: 'Roboto', 'Courier New', Courier, monospace;
 }
 
+body {
+  margin: 0;
+}
+
 .header {
   display: flex;
   flex: 1;
   background-color: #1F2937;
   color: #f9faf8;
-  margin: 0;
 }
 
 .logo {
