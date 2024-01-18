@@ -34,3 +34,7 @@
   width: 200px;
   background-color: #696b6e;
 }
+
+.bright {
+  display: inline;
+}
