@@ -1,3 +1,7 @@
+* {
+  font-family: 'Roboto', 'Courier New', Courier, monospace;
+}
+
 .header {
   display: flex;
   flex: 1;
