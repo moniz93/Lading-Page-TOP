@@ -20,11 +20,17 @@
 .hero {
   color: #f9faf8;
   background-color: #1F2937;
-
+  display: flex;
 }
 
 .awesome {
   font-size: 48px;
   font-weight: bold;
   margin: 0;
+}
+
+.right {
+  height: 200px;
+  width: 200px;
+  background-color: #696b6e;
 }
