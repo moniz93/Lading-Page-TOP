@@ -36,6 +36,14 @@
   margin: 50px;
 }
 
+.left {
+  height: 200px;
+  width: 600px;
+  margin: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
 .bright {
   display: inline;
 }
