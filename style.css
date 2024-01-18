@@ -13,12 +13,13 @@
 .logo {
   font-size: 24px;
   flex-grow: 4;
-  margin-left: 30px;
+  margin: 15px 50px;
 }
 
 .link {
   font-size: 18px;
   color: #e5e7eb;
+  margin: 15px 15px;
 }
 
 .hero {
@@ -30,7 +31,7 @@
 .awesome {
   font-size: 48px;
   font-weight: bold;
-  margin: 0;
+  margin: auto;
 }
 
 .right {
