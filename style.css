@@ -28,6 +28,7 @@ body {
 .hero {
   color: #f9faf8;
   background-color: #1F2937;
+  padding: 150px;
   display: flex;
   justify-content: space-around;
 }
@@ -39,8 +40,8 @@ body {
 }
 
 .right {
-  height: 200px;
-  width: 600px;
+  height: 250px;
+  width: 550px;
   background-color: #696b6e;
   margin: 50px;
 }
