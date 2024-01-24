@@ -11,14 +11,15 @@ body {
   flex: 1;
   background-color: #1F2937;
   color: #f9faf8;
+  padding: 12px 130px;
 }
 
 .hero {
   color: #f9faf8;
   background-color: #1F2937;
-  padding: 150px;
+  padding: 130px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .logo {
