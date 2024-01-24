@@ -46,13 +46,11 @@ body {
   height: 250px;
   width: 550px;
   background-color: #696b6e;
-  margin: 50px;
 }
 
 .left {
   height: 200px;
   width: 600px;
-  margin: 50px;
   justify-content: center;
   align-items: center;
 }
