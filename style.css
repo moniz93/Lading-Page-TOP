@@ -73,3 +73,17 @@ font-weight: bold;
   justify-content: center;
   align-items: center;
 }
+
+.squares {
+  display: flex;
+  flex: 1;
+  justify-content: space-evenly;
+  padding: 0px 300px;
+}
+
+.square {
+  border: 5 px solid #3882f6;
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+}
